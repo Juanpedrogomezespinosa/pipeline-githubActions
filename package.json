@@ -1,0 +1,10 @@
+{
+  "name": "pipeline-githubactions",
+  "version": "1.0.0",
+  "description": "Pipeline con GitHub Actions",
+  "scripts": {
+    "test": "echo \"✅ Ejecución de tests simulada con éxito\" && exit 0"
+  },
+  "author": "Juan Pedro Gómez Espinosa",
+  "license": "MIT"
+}
